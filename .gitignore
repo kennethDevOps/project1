@@ -1,5 +1,5 @@
 ignore1
 ignore2
-.mp3
-.docx
+*.mp3
+*.docx
 
